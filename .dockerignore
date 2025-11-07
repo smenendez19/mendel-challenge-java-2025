@@ -1,0 +1,13 @@
+target/
+!target/mendel-challenge-*.jar
+.git
+.gitignore
+.dockerignore
+*.md
+.idea
+.vscode
+*.iml
+.classpath
+.project
+.settings
+bin/
